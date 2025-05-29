@@ -1,2 +1,2 @@
-# AI-Daily
+# AI-Learning
 Learning and building all things AI!
