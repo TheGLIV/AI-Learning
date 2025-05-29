@@ -24,4 +24,3 @@ Enjoy!
 - I had thought of using `Google Collab` earlier but then I decided learning should be better done on my local device. Cloud-based coding can wait.
 ---
 
-## Day 1: Python & NumPy Basics
